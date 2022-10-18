@@ -19,6 +19,10 @@
 
 
 
+
+
+
 ## 	Authors
 - cybermedhm
 - Modarrcodes
+- CStratton-Brown
