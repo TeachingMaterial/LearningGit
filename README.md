@@ -1,4 +1,3 @@
-# LearningGit
 # Learning Git
 
 
